@@ -112,6 +112,26 @@ iframe {
 
 .shadow {
   box-shadow: 0 3px 10px #333;
+  float: right;
+}
+
+#right {
+  float: left;
+  width: 680px;
+  height: 607px;
+  margin: 0 10px 10px 0;
+}
+
+#padding {
+  display: block;
+  float: left;
+  width: 300px;
+  height: 320px;
+  margin: 5px;
+}
+#list {
+  width:250px;
+  height: 607px;
 }
 
 .milk_text {
